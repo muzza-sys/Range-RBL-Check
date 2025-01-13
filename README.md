@@ -53,12 +53,3 @@ Add this line to run the script daily at 2 AM:
 0 2 * * * /usr/bin/python3 /path/to/rbl_lookup.py >> /var/log/rbl_lookup.log 2>&1
 ```
 
-## License
-MIT License
-
-## Contributions
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
-## Contact
-For support, open an issue or contact me on Discord.
-
